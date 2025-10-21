@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Montserrant"; 
+    src: url(TTF/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Medium"; 
+    src: url(TTF/Montserrat-Medium.ttf);
+}
+
+p {
+    font-family: "Medium";
+    color: #28406b;
+}
+
+.texto1 {
+    position: absolute;
+    color:#28406b;
+    top: 53px;
+    left: 80px;
+}
+
+.card {
+    position: relative;
+    top: 190px;
+    left: 40px;
+}
+
+.fa-solid {
+    position: relative;
+    color:rgb(40, 64, 107);
+    top: 65px;
+    font-size: 33px;
+    left: 30px;
+}
